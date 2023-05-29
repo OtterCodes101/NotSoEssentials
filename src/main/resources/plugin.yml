@@ -1,0 +1,8 @@
+name: NotSoEssentials
+version: ${project.version}
+main: me.otterdev.notsoessentials.NotSoEssentials
+
+prefix: NOTSOESSENTIALS
+authors: [OtterDev]
+description: The little things you want in a server.
+website: https://otter.is-a.dev
